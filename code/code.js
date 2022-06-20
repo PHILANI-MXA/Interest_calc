@@ -3,7 +3,7 @@ var roi = document.getElementById("roi");
 var years = document.getElementById("years");
 var outputspan = document.getElementById("outputspan");
 
-//itvoyagers.in
+
 function countCI() {
     p = parseFloat(principle.value);
     r = parseFloat(roi.value);
